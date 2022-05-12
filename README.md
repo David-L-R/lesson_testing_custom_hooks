@@ -9,7 +9,7 @@
 ## 🪝 Intro
 
 - What are hooks?
-- What are custom hooks
+- What are custom hooks?
 
 ## 🤔 Testing - Why
 

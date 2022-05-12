@@ -13,6 +13,7 @@
 
 ## Testing
 
+- Why we should NOT test custom hooks
 - Creating new component
 - Testing hooks directly
 - Using `{renderHook}` and `rerender` `@testing-library`

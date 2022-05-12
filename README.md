@@ -4,7 +4,7 @@
     <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15%">
 </p>
 
-# Testing Custon Hooks
+# Testing Custom Hooks
 
 ## 🪝 Intro
 

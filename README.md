@@ -11,9 +11,12 @@
 - What are hooks?
 - What are custom hooks
 
-## Testing
+## Testing - Why
 
 - Why we should NOT test custom hooks
+- When should you test
+
+## Testing - How
 - Creating new component
 - Testing hooks directly
 - Using `{renderHook}` and `rerender` `@testing-library`

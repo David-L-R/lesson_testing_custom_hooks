@@ -1,0 +1,19 @@
+{
+  "name": "testing_custom_hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-L-R/lesson_testing_custom_hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-L-R/lesson_testing_custom_hooks/issues"
+  },
+  "homepage": "https://github.com/David-L-R/lesson_testing_custom_hooks#readme"
+}

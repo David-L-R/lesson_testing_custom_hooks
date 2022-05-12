@@ -19,4 +19,4 @@
 ## ⚙️ Testing - How
 - Creating new component
 - Testing hooks directly
-- Using `{renderHook}` and `rerender` `@testing-library`
+- Using `{renderHook}` from `@testing-library`
